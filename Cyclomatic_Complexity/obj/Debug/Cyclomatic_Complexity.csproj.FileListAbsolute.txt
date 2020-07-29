@@ -1,0 +1,10 @@
+C:\Users\lenovo\source\repos\Cyclomatic_Complexity\Cyclomatic_Complexity\bin\Debug\Cyclomatic_Complexity.exe.config
+C:\Users\lenovo\source\repos\Cyclomatic_Complexity\Cyclomatic_Complexity\bin\Debug\Cyclomatic_Complexity.exe
+C:\Users\lenovo\source\repos\Cyclomatic_Complexity\Cyclomatic_Complexity\bin\Debug\Cyclomatic_Complexity.pdb
+C:\Users\lenovo\source\repos\Cyclomatic_Complexity\Cyclomatic_Complexity\obj\Debug\Cyclomatic_Complexity.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\Cyclomatic_Complexity\Cyclomatic_Complexity\obj\Debug\Cyclomatic_Complexity.Form1.resources
+C:\Users\lenovo\source\repos\Cyclomatic_Complexity\Cyclomatic_Complexity\obj\Debug\Cyclomatic_Complexity.Properties.Resources.resources
+C:\Users\lenovo\source\repos\Cyclomatic_Complexity\Cyclomatic_Complexity\obj\Debug\Cyclomatic_Complexity.csproj.GenerateResource.cache
+C:\Users\lenovo\source\repos\Cyclomatic_Complexity\Cyclomatic_Complexity\obj\Debug\Cyclomatic_Complexity.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Cyclomatic_Complexity\Cyclomatic_Complexity\obj\Debug\Cyclomatic_Complexity.exe
+C:\Users\lenovo\source\repos\Cyclomatic_Complexity\Cyclomatic_Complexity\obj\Debug\Cyclomatic_Complexity.pdb
